@@ -1,0 +1,28 @@
+:root {
+  --color-bg:            #f7f5f2;
+  --color-header-bg:     #510044;
+  --color-accent:        #e1c7ff;
+  --color-text:          #2e2e2e;
+  --color-heading:       #ffd0ed;
+  --color-link:          #e1c7ff;
+  --color-link-hover:    #ffffff;
+
+  --font-sans:    'Open Sans', sans-serif;
+  --font-display: 'Bebas Neue', cursive;
+
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+}
+
+body.dark-mode {
+  --color-bg:        #0e0e1a;
+  --color-header-bg: #181832;
+
+  --color-text:    #e2e6f0;
+  --color-heading: #a9d1ff;
+
+  --color-link:       #a9d1ff;
+  --color-link-hover: #ffffff;
+  --color-accent:     #6d4acd;
+}
